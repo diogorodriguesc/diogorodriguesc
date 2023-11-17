@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on kununu.com
+- 🌱 I’m currently learning Python
+
+[![LeetCode user diogorodriguesc](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fdiogorodriguesc&logo=leetcode&logoColor=yellow)](https://leetcode.com/diogorodriguesc/)
